@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "page.glide.investmate.twa",
+        "sha256_cert_fingerprints": ["21:04:5B:92:FC:A7:61:FB:F8:EE:52:77:AB:27:17:36:3F:10:6E:B8:CF:A6:02:21:9E:DA:5F:66:20:1B:3F:FB"]
+      }
+    }]
